@@ -5,7 +5,7 @@ A Music List Application that updates real time
 ### Project setup
 :one:
 ```
-git clone https://github.com/Masterxhen/musicList-app-batch3.git
+git clone https://github.com/Masterxhen/music-lib.git
 or Download Zip and Extract the Package
 ```
 
@@ -13,7 +13,7 @@ or Download Zip and Extract the Package
 ### Installation Via Git (Terminal, Poweshell, Bash, Command Prompt) and Open Into Visual Studio Code
 :two:
 ```
-cd musicList-app-batch3
+cd music-lib
 code .
 yarn install
 
