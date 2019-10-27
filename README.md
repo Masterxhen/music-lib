@@ -1,5 +1,5 @@
 ### :fire: Quasar Project for Codestack IT Solutions and Training Services From Native to FullStack Web Developer #crashcourse batch 3 :fire:
-# Music List Application (musiclib)
+# Music List Quasar Application (musiclib)
 A Music List Application that updates real time
 
 ### Project setup
